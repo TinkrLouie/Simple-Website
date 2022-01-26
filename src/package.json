@@ -1,15 +1,23 @@
 {
-  "name": "2",
+  "name": "src",
   "version": "1.0.0",
-  "description": "",
+  "description": "server coding",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "jest"
   },
-  "author": "",
+  "author": "Hien Ha",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.2.0",
+    "jest": "^27.4.7",
+    "supertest": "^6.2.2"
   }
 }

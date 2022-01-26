@@ -1,0 +1,44 @@
+[
+    {
+        "cuisine" : "Mexican", 
+        "title" : "Corn Tortilla",
+        "date" : "2022-01-24",
+        "desc" : "Corn tortilla is a staple of Mexican cuisine.", 
+        "ingr" : ["Flour", "Water", "Oil"],
+        "pic" : "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_16:9/k%2Farchive%2Ff0065772d13fd02f511b31998df0cbaee35a6784"
+    },
+    {
+        "cuisine" : "Oriental",
+        "title" : "Sweet and Sour Chicken",
+        "date" : "2022-01-23",
+        "desc" :"One word. Delicious!",
+        "ingr" : ["Chicken", "Sweet", "Sour"],
+        "pic" : "https://www.kitchensanctuary.com/wp-content/uploads/2019/09/Sweet-and-sour-chicken-square-FS-0833.jpg"
+    },
+    {
+        "cuisine" : "European",
+        "title" : "Spaghetti Bolognese",
+        "date" : "2022-01-22",
+        "desc" : "Famous Italian dish, known worldwide.",
+        "ingr" : ["Meat","Pasta","Tomato"],
+        "pic" : "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/spaghetti-bolognese-1130fa2.jpg"
+    },
+    {
+        "cuisine" : "Oriental",
+        "title" : "Dim Sum",
+        "date" : "2022-01-21",
+        "desc" :"Traditional. Chinese people love it.",
+        "ingr" : ["Chicken", "Sweet", "Sour"],
+        "pic" : "https://www.irishtimes.com/polopoly_fs/1.2730917.1469180612!/image/image.jpg_gen/derivatives/ratio_1x1_w1200/image.jpg"
+    },
+    {
+        "cuisine" : "Middle Eastern",
+        "title" : "Baklava",
+        "date" : "2022-01-20",
+        "desc" : "Syryp-soaked, gently-spiced with cinnmon and cardamom, and a blend of nuts.",
+        "ingr" : ["Butter", "Walnut", "Pecan"],
+        "pic" : "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/baklava-088b5b9.jpg?quality=90&webp=true&resize=300,272"
+    }
+    
+]
+
